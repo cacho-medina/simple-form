@@ -1,0 +1,16 @@
+#root {
+    min-height: 100vh;
+    min-width: 100vw;
+}
+.max {
+    max-width: 500px;
+}
+.estilos {
+    border-radius: 30px;
+    background: #eaeaea;
+    box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
+}
+.errores {
+    color: red;
+    font-size: small;
+}
